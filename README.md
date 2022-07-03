@@ -1,7 +1,7 @@
 # Patika-InsertionSort
 https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
 
-Project 1 exam questions
+Project 1 exam questions <br> <br>
 [22,27,16,2,18,6] -> Insertion Sort
 
 1)  Write the stages of the above array according to the insertion sort type.
