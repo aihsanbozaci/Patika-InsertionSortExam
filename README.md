@@ -14,7 +14,7 @@ Project 1 exam questions <br> <br>
 
 
 
-Request:
+Answers:
 
 1. Step by step <br> 
 Step 1: [22,27,16,2,18,6] <br> 
