@@ -16,28 +16,25 @@ Proje 1
 
 Request:
 
-1. 
-Step by step
-Step 1: [22,27,16,2,18,6]
-Step 2: [16,22,27,2,18,6]
-Step 3: [2,16,22,27,18,6]
-Step 4: [2,16,18,22,27,6]
-Step 5: [2,6,16,18,22,27]
+1. Step by step <br> 
+Step 1: [22,27,16,2,18,6] <br> 
+Step 2: [16,22,27,2,18,6] <br> 
+Step 3: [2,16,22,27,18,6] <br> 
+Step 4: [2,16,18,22,27,6] <br> 
+Step 5: [2,6,16,18,22,27] <br> 
 
 2. O(n^2)
 
-3. 
-The worst case: n!= n*(n+1)/2= (n^2+n)/2 => O(n^2) The number in the last of the array is smallest. 
-Average case: The number in the middle of the array is 18.
+3.  The worst case: n!= n*(n+1)/2= (n^2+n)/2 => O(n^2) The number in the last of the array is smallest. <br> 
+Average case: The number in the middle of the array is 18. <br> 
 The best case: The array is sorted by O(n)
 
 4.The avarage case.
 
-5. 
-Step by step for 4 stages
-Step 1: [3,7,5,8,2,9,4,15,6]
-Step 2: [3,5,7,8,2,9,4,15,6]
-Step 3: [2,3,5,7,8,9,4,15,6]
+5. Step by step for 4 stages <br> 
+Step 1: [3,7,5,8,2,9,4,15,6] <br>
+Step 2: [3,5,7,8,2,9,4,15,6] <br>
+Step 3: [2,3,5,7,8,9,4,15,6] <br>
 Step 4: [2,3,4,5,7,8,9,15,6]
 
 
